@@ -1,7 +1,7 @@
 <h1 align="center">Kiril (@keiraarts) Climson</h1>
 
 <p align="center">
-  Senior software engineer building ecommerce tools for over 10 years with apps processing 10+ billion dollars worth of GMV across our customers each year.
+  Senior software engineer building ecommerce tools for over a decade.
 </p>
 
 <p align="center">
